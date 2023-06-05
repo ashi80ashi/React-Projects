@@ -1,10 +1,8 @@
-
 import React from 'react'
 import Testimonial from './Components/Testimonial'
 import reviews from './data'
 
 function App() {
-  
   return (
     <div className='flex felx-col w-[100vw] h-[100vh] justify-center items-center bg-gray-200'>
       <div className='text-center'>
